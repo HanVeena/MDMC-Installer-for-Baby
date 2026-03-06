@@ -24,4 +24,4 @@ MDMC自制谱游玩需求：
 
 制作者：哔哩哔哩 韩维娜HanVeena
 
-特别鸣谢：Muse Dash Modding Community
+特别鸣谢：Muse Dash Modding Community和Google Gemini
