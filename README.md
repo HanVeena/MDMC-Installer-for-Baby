@@ -5,12 +5,16 @@
 此项目需求：基于Windows10或Windows11，并且安装了MuseDash及DLC（计划通或MusePlus）的电脑
 
 MDMC自制谱游玩需求：
+
 1.安装.NET 6.0
+
 2.能够正常访问Github的方式（如VPN、Steam++、Watt Toolkit）
 
 此项目功能：
 1.一键安装/卸载Melonloader
+
 2.一键安装最新版Custom_Albums.dll和Cinema.dll文件，并在安装时自动创建Custom_Albums和Mods文件夹
+
 3.一键卸载MDMC相关组件（保留Custom_Albums文件夹）
 
 傻瓜式教程：下载好此exe文件后打开，根据需要点击即可
